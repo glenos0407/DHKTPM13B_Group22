@@ -10,3 +10,15 @@ D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\De
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll.config
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.xml
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.xml
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb

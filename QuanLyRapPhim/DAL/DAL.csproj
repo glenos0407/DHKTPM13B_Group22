@@ -59,6 +59,18 @@
     <Compile Include="Migrations\202007031637150_init_v2.designer.cs">
       <DependentUpon>202007031637150_init_v2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202007032036573_Fix.cs" />
+    <Compile Include="Migrations\202007032036573_Fix.designer.cs">
+      <DependentUpon>202007032036573_Fix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007032045120_Fix_Fix.cs" />
+    <Compile Include="Migrations\202007032045120_Fix_Fix.designer.cs">
+      <DependentUpon>202007032045120_Fix_Fix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202007032049415_Fix_Fix_Fix.cs" />
+    <Compile Include="Migrations\202007032049415_Fix_Fix_Fix.designer.cs">
+      <DependentUpon>202007032049415_Fix_Fix_Fix.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RapPhimDBContext.cs" />
@@ -79,6 +91,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202007031637150_init_v2.resx">
       <DependentUpon>202007031637150_init_v2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007032036573_Fix.resx">
+      <DependentUpon>202007032036573_Fix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007032045120_Fix_Fix.resx">
+      <DependentUpon>202007032045120_Fix_Fix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202007032049415_Fix_Fix_Fix.resx">
+      <DependentUpon>202007032049415_Fix_Fix_Fix.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

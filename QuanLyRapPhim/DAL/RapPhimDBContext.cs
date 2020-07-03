@@ -14,11 +14,11 @@ namespace DAL
         { 
 
         }
-        public DbSet<NhanVien> NhanViens { get; set; }
-        public DbSet<Phim> Phims { get; set; }
-        public DbSet<RapPhim> RapPhims { get; set; }
-        public DbSet<SuatChieu> SuatChieus { get; set; }
-        public DbSet<Ve> Ves { get; set; }
+        public DbSet<eNhanVien> NhanViens { get; set; }
+        public DbSet<ePhim> Phims { get; set; }
+        public DbSet<eRapPhim> RapPhims { get; set; }
+        public DbSet<eSuatChieu> SuatChieus { get; set; }
+        public DbSet<eVe> Ves { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -12,6 +13,27 @@ namespace QLRPWCFServices
     public interface IQLRP
     {
         [OperationContract]
-        void DoWork();
+        eNhanVien CreateNhanVien(eNhanVien nv);
+
+        [OperationContract]
+        ePhim GetPhimById(int id);
+
+        [OperationContract]
+        eRapPhim GetRapPhimById(int id);
+
+        [OperationContract]
+        eVe CreateVe(eVe ve);
+
+        [OperationContract]
+        eVe GetVe(int idVe);
+
+        [OperationContract]
+        ePhim CreatePhim(ePhim phim);
+
+        [OperationContract]
+        eNhanVien DangNhap(int id, string password);
+
+        [OperationContract]
+        double ThongKeDoanhThu(DateTime startDate, DateTime endDate, int idPhim);
     }
 }

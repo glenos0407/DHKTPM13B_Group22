@@ -33,3 +33,24 @@ D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\De
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
 D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.init_v2.resources
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll.config
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll.config
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Init.resources
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.init_v2.resources
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix.resources
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix.resources
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix_Fix.resources
