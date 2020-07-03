@@ -13,7 +13,7 @@ namespace Entities
         public int idVe { get; set; }
         public string gheNgoi { get; set; }
         public double giaVe { get; set; }
-
+        public DateTime ngayXuatVe { get; set; }
 
         public int idNhanVien { get; set; }
         public NhanVien NhanVien { get; set; }

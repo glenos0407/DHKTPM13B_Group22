@@ -12,7 +12,7 @@ namespace Entities
         [Key]
         public int idRapPhim { get; set; }
         public string diaChi { get; set; }
-        public string tenRnap { get; set; }
+        public string tenRap { get; set; }
         public string hotLine { get; set; }
         public int soLuongChoNgoi { get; set; }
 

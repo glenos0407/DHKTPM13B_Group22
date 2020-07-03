@@ -1,0 +1,12 @@
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll.config
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.pdb
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.xml
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.xml
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb

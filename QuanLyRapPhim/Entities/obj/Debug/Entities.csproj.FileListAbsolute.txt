@@ -10,3 +10,15 @@ C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200703\DHKTPM13B_
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200703\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csproj.CopyComplete
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200703\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.dll
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200703\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.pdb
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.dll.config
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.pdb
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.xml
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.dll
+D:\Projects\C#\Kien Truc PM\QLRapPhim\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.pdb
