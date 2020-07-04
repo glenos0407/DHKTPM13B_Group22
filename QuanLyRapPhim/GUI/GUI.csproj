@@ -99,9 +99,26 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\inforMovie.css" />
+    <Content Include="Content\KhachHangListPhim.css" />
     <Content Include="DangNhap.aspx" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Image\Layout.jpg" />
+    <Content Include="Image\logo.jpg" />
+    <Content Include="Image\poster0.jpg" />
+    <Content Include="Image\poster1.jpg" />
+    <Content Include="Image\poster2.jpg" />
+    <Content Include="Image\poster3.jpg" />
+    <Content Include="Image\poster4.jpg" />
+    <Content Include="Image\poster5.jpg" />
+    <Content Include="Image\slide0.png" />
+    <Content Include="Image\slide1.jpg" />
+    <Content Include="Image\slide2.jpg" />
+    <Content Include="Image\slide3.jpg" />
+    <Content Include="Image\slide4.jpg" />
+    <Content Include="KhachHang_Index.aspx" />
+    <Content Include="KhachHang_ListPhim.aspx" />
     <Content Include="QuanLyRap.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -184,6 +201,7 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="ThemPhim.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -209,6 +227,20 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="KhachHang_Index.aspx.cs">
+      <DependentUpon>KhachHang_Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KhachHang_Index.aspx.designer.cs">
+      <DependentUpon>KhachHang_Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang_ListPhim.aspx.cs">
+      <DependentUpon>KhachHang_ListPhim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KhachHang_ListPhim.aspx.designer.cs">
+      <DependentUpon>KhachHang_ListPhim.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuanLyRap.aspx.cs">
       <DependentUpon>QuanLyRap.aspx</DependentUpon>
@@ -216,6 +248,12 @@
     </Compile>
     <Compile Include="QuanLyRap.aspx.designer.cs">
       <DependentUpon>QuanLyRap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ThemPhim.aspx.cs">
+      <DependentUpon>ThemPhim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ThemPhim.aspx.designer.cs">
+      <DependentUpon>ThemPhim.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

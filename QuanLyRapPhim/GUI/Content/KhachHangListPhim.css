@@ -1,0 +1,15 @@
+﻿#tblPhim{
+    padding: 10px;
+    border: 1px solid black;
+    background-color: black;
+    align-content: center;
+}
+/*section{
+    width: auto;
+    height: auto;
+    margin: 100px;
+}*/
+#tblPhim tbody tr td img{
+    width: 125px;
+    height: 200px
+}

@@ -74,7 +74,7 @@ namespace QLRPWCFServices
 
         public List<ePhim> GetPhimConChieu()
         {
-            return db.Phims.Where(x => x.ngayDongPhim.CompareTo(DateTime.Now) < 0).ToList();
+            return db.Phims.Where(x => x.ngayDongPhim.CompareTo(DateTime.Now) > 0).ToList();
         }
 
         public eRapPhim GetRapPhimById(int id)
