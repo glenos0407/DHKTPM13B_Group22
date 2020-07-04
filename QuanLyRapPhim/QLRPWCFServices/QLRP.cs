@@ -67,6 +67,11 @@ namespace QLRPWCFServices
             return null;
         }
 
+        public List<eRapPhim> GetAllRapPhim()
+        {
+            return db.RapPhims.ToList();
+        }
+
         public ePhim GetPhimById(int id)
         {
             return db.Phims.FirstOrDefault(x => x.idPhim.Equals(id));

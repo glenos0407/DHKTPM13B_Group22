@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="KhachHang_ListPhim.aspx.cs" Inherits="GUI.KhachHang_ListPhim" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="KhachHang_ListRapPhim.aspx.cs" Inherits="GUI.KhachHang_ListRapPhim" %>
 
 <!DOCTYPE html>
 
@@ -32,14 +32,11 @@
         <asp:Table runat="server" OnInit="Unnamed1_Init" ID="tblPhim" Width="1080px">
             <asp:TableHeaderRow>
                 <asp:TableHeaderCell>ID</asp:TableHeaderCell>
-                <asp:TableHeaderCell>Poster</asp:TableHeaderCell>
-                <asp:TableHeaderCell>Tên phim</asp:TableHeaderCell>
-                <asp:TableHeaderCell>Tên đạo diễn</asp:TableHeaderCell>
-                <asp:TableHeaderCell>Thể loại</asp:TableHeaderCell>
-                <asp:TableHeaderCell></asp:TableHeaderCell>
+                <asp:TableHeaderCell>Tên rạp</asp:TableHeaderCell>
+                <asp:TableHeaderCell>Địa chỉ</asp:TableHeaderCell>
             </asp:TableHeaderRow>
         </asp:Table>
-        <asp:TextBox ID="txtidPhim" runat="server"></asp:TextBox>
+        <asp:TextBox ID="txtidRap" runat="server"></asp:TextBox>
         <asp:Button runat="server" ID="btnSubmit" CssClass="btn btn-success" Text="Submit" OnClick="btnSubmit_Click"/>
     </section>
 

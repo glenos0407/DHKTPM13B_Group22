@@ -11,7 +11,7 @@ namespace GUI
 {
 
 
-    public partial class KhachHang_ListPhim
+    public partial class KhachHang_ListRapPhim
     {
 
         /// <summary>
@@ -33,13 +33,13 @@ namespace GUI
         protected global::System.Web.UI.WebControls.Table tblPhim;
 
         /// <summary>
-        /// txtidPhim control.
+        /// txtidRap control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtidPhim;
+        protected global::System.Web.UI.WebControls.TextBox txtidRap;
 
         /// <summary>
         /// btnSubmit control.

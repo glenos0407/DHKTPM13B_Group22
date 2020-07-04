@@ -45,7 +45,7 @@ namespace GUI
                 lb_tenDaoDien.Text = item.tenDaoDien;
                 lb_theloai.Text = item.theLoai;
 
-                lb_Ten.Attributes.Add("onclick","javascript:document.location.href=\"google.com\"");
+                lb_Ten.Attributes.Add("onclick","javascript:window.location.href=KhachHang_InforPhim.aspx?Id=" + item.idPhim);
 
                 cel1.Controls.Add(lb_id);
                 cel2.Controls.Add(img_poster);
@@ -53,7 +53,7 @@ namespace GUI
                 cel4.Controls.Add(lb_tenDaoDien);
                 cel5.Controls.Add(lb_theloai);
 
-                row.Attributes.Add("runat", "server");
+                //row.Attributes.Add("runat", "server");
 
                 row.Cells.Add(cel1);
                 row.Cells.Add(cel2);
@@ -66,6 +66,12 @@ namespace GUI
                 tblPhim.Style.Add("style", "border: 1px solid white");
                 tblPhim.Rows.Add(row);
             }
+        }
+
+        protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("KhachHang_InforPhim?Id=" + txtidPhim.Text);
+            //Response.Redirect("KhachHang_InforPhim);
         }
     }
 }
