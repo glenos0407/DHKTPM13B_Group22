@@ -33,3 +33,4 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
