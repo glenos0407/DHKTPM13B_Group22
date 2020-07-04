@@ -72,6 +72,11 @@ namespace QLRPWCFServices
             return db.Phims.FirstOrDefault(x => x.idPhim.Equals(id));
         }
 
+        public List<ePhim> GetPhimConChieu()
+        {
+            return db.Phims.Where(x => x.ngayDongPhim.CompareTo(DateTime.Now) < 0).ToList();
+        }
+
         public eRapPhim GetRapPhimById(int id)
         {
             return db.RapPhims.FirstOrDefault(x => x.idRapPhim.Equals(id));

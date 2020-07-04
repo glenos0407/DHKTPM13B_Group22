@@ -35,5 +35,8 @@ namespace QLRPWCFServices
 
         [OperationContract]
         double ThongKeDoanhThu(DateTime startDate, DateTime endDate, int idPhim);
+
+        [OperationContract]
+        List<ePhim> GetPhimConChieu();
     }
 }
