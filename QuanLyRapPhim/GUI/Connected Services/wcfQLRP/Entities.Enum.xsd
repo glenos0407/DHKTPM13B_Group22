@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Entities.Enum" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Entities.Enum" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="ChucVu">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="NhanVienBanVe" />
+      <xs:enumeration value="NhanVienQuanLyRap" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="ChucVu" nillable="true" type="tns:ChucVu" />
+</xs:schema>

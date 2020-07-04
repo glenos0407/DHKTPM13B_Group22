@@ -8,6 +8,6 @@ namespace Entities.Enum
 {
     public enum ChucVu
     {
-        NhanVienBanHang, NhanVienQuanLy
+        NhanVienBanVe, NhanVienQuanLyRap
     }
 }

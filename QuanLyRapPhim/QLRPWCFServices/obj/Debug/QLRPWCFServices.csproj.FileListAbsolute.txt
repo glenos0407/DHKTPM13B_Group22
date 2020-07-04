@@ -16,3 +16,21 @@ C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.dll.config
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.pdb
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.pdb
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.pdb
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.pdb
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.xml
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csprojAssemblyReference.cache
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csproj.CoreCompileInputs.cache
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csproj.CopyComplete
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.pdb

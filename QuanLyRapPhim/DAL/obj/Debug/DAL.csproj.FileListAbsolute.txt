@@ -54,3 +54,24 @@ C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix.resources
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix.resources
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix_Fix.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.pdb
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.pdb
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll.config
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.xml
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Init.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.init_v2.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix_Fix.resources
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
+C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
