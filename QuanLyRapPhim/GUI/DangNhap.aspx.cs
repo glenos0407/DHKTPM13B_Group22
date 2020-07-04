@@ -43,6 +43,7 @@ namespace GUI
                 if (eNhanVien.chucVu == ChucVu.NhanVienBanVe)
                 {
                     Response.Redirect("BanVe.aspx");
+  
                 }
                 if (eNhanVien.chucVu == ChucVu.NhanVienQuanLyRap)
                 {

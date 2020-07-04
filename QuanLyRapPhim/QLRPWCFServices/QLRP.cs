@@ -72,6 +72,7 @@ namespace QLRPWCFServices
             return db.Phims.FirstOrDefault(x => x.idPhim.Equals(id));
         }
 
+       
         public List<ePhim> GetPhimConChieu()
         {
             return db.Phims.Where(x => x.ngayDongPhim.CompareTo(DateTime.Now) > 0).ToList();
@@ -116,6 +117,11 @@ namespace QLRPWCFServices
                 }
             }
             return doanhThu;
+        }
+
+        public eSuatChieu GetSuatChieuByID(int id)
+        {
+            return db.SuatChieus.FirstOrDefault(x => x.idPhim.Equals(id));
         }
     }
 }

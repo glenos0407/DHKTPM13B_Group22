@@ -86,7 +86,6 @@ D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.pdb
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll.config
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.xml
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.xml
-D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Init.resources
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.init_v2.resources
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix.resources
@@ -98,3 +97,4 @@ D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CoreCompileI
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
 D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

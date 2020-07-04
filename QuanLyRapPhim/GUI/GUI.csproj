@@ -75,6 +75,7 @@
     <Content Include="BanVe.aspx" />
     <None Include="Connected Services\wcfQLRP\configuration91.svcinfo" />
     <None Include="Connected Services\wcfQLRP\configuration.svcinfo" />
+    <Content Include="ChonXuatChieu.aspx" />
     <Content Include="Connected Services\wcfQLRP\GUI.wcfQLRP.eNhanVien.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
@@ -212,6 +213,13 @@
     <Compile Include="BanVe.aspx.designer.cs">
       <DependentUpon>BanVe.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ChonXuatChieu.aspx.cs">
+      <DependentUpon>ChonXuatChieu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChonXuatChieu.aspx.designer.cs">
+      <DependentUpon>ChonXuatChieu.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Connected Services\wcfQLRP\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -251,6 +259,7 @@
     </Compile>
     <Compile Include="ThemPhim.aspx.cs">
       <DependentUpon>ThemPhim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ThemPhim.aspx.designer.cs">
       <DependentUpon>ThemPhim.aspx</DependentUpon>

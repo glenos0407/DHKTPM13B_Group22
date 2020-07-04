@@ -43,3 +43,24 @@ C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.dll.config
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.pdb
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\GUI.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\EntityFramework.SqlServer.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb

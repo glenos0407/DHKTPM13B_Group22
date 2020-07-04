@@ -38,5 +38,8 @@ namespace QLRPWCFServices
 
         [OperationContract]
         List<ePhim> GetPhimConChieu();
+
+        [OperationContract]
+        eSuatChieu GetSuatChieuByID(int id);
     }
 }

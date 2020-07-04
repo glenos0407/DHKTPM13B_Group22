@@ -13,17 +13,21 @@ namespace GUI
         private QLRP ql = new QLRP();
         protected void Page_Load(object sender, EventArgs e)
         {
-            //if(Session["NhanVienDangNhap"] == null)
-            //{
-            //    Response.Redirect("DangNhap.aspx");
-            //    return;
-            //}
+
+            if (Session["NhanVienDangNhap"] == null)
+            {
+                Response.Redirect("DangNhap.aspx");
+                return;
+            }
         }
 
         protected void Unnamed1_Init(object sender, EventArgs e)
         {
             var lstPhimDangChieu = ql.GetPhimConChieu();
             foreach (var item in lstPhimDangChieu)
+
+            if (Session["NhanVienDangNhap"] == null)
+
             {
                 TableRow row = new TableRow();
                 TableCell cell = new TableCell();
