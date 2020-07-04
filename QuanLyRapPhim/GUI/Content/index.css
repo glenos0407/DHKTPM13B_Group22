@@ -1,0 +1,18 @@
+.wrapper{
+    margin: 10px auto; padding-left: 25px; height: 470px; width: 1200px; align-self: auto;
+}
+.wrapper > h2{
+    text-align: center; color: white
+}
+.informov{
+    width: 200px; height: 400px; float: left; margin:0 15px;
+}
+.informov > .hovereffect > a > img{
+    width: 200px; height: 300px;
+}
+.informov > h5{
+    text-align: center; height: 40px; color: white; margin-top: 310px;
+}
+.informov > a{
+    width: 200px; height: 45px; margin-top: 10px;
+}
