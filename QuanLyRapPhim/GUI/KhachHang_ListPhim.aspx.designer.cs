@@ -11,16 +11,16 @@ namespace GUI
 {
 
 
-    public partial class KhachHang_UI
+    public partial class KhachHang_ListPhim
     {
 
         /// <summary>
-        /// poster0 control.
+        /// tblPhim control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlImage poster0;
+        protected global::System.Web.UI.WebControls.Table tblPhim;
     }
 }

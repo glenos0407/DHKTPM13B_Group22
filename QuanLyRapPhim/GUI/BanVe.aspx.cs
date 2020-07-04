@@ -11,7 +11,7 @@ namespace GUI
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(Session["NhanVienDangNhap"] == null)
+            if (Session["NhanVienDangNhap"] == null)
             {
                 Response.Redirect("DangNhap.aspx");
                 return;

@@ -99,6 +99,8 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\inforMovie.css" />
+    <Content Include="Content\KhachHangListPhim.css" />
     <Content Include="DangNhap.aspx" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
@@ -115,7 +117,8 @@
     <Content Include="Image\slide2.jpg" />
     <Content Include="Image\slide3.jpg" />
     <Content Include="Image\slide4.jpg" />
-    <Content Include="KhachHang_UI.aspx" />
+    <Content Include="KhachHang_Index.aspx" />
+    <Content Include="KhachHang_ListPhim.aspx" />
     <Content Include="QuanLyRap.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -223,12 +226,19 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="KhachHang_UI.aspx.cs">
-      <DependentUpon>KhachHang_UI.aspx</DependentUpon>
+    <Compile Include="KhachHang_Index.aspx.cs">
+      <DependentUpon>KhachHang_Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="KhachHang_UI.aspx.designer.cs">
-      <DependentUpon>KhachHang_UI.aspx</DependentUpon>
+    <Compile Include="KhachHang_Index.aspx.designer.cs">
+      <DependentUpon>KhachHang_Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang_ListPhim.aspx.cs">
+      <DependentUpon>KhachHang_ListPhim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KhachHang_ListPhim.aspx.designer.cs">
+      <DependentUpon>KhachHang_ListPhim.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuanLyRap.aspx.cs">
@@ -301,6 +311,16 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Connected Services\wcfQLRP\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{8A5407A5-0976-4E17-8487-E8700ED18D37}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLRPWCFServices\QLRPWCFServices.csproj">
+      <Project>{D242B54E-DE78-477C-8CCC-8F6D46A4ECE6}</Project>
+      <Name>QLRPWCFServices</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -34,3 +34,12 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csproj.
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.pdb
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.dll
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\Entities.dll.config
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\QLRPWCFServices.dll.config
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.pdb
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\GUI\bin\DAL.dll.config

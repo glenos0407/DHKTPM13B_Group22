@@ -45,3 +45,4 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entiti
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.pdb
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csprojAssemblyReference.cache

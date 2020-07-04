@@ -6,11 +6,12 @@
 <head runat="server">
     <title></title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="Content/inforMovie.css" rel="stylesheet" />
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </head>
-<body>
+<body style="background: url(../image/Layout.jpg) no-repeat fixed center; background-size: cover;">
     <nav class="navbar navbar-expand-lg navbar-light bg-dark">
         <a style="color: #f2f2f2;" class="navbar-brand" href="#"><img style="width: 25px; height: 25px; border-radius:100%; margin-right: 5px; margin-left: 5px" src="Image/logo.jpg" />Trang chủ</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,59 +59,7 @@
                         <span class="sr-only">Next</span>
                     </a>
             </div>
-            <div>
-                <div class="wrapper" id="phim">
-                    <h2>PHIM ĐANG CHIẾU</h2>
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster0" class="img-responsive"></img></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster1" class="img-responsive"></img></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster2" class="img-responsive"></img></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster3" class="img-responsive"></img></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster4" class="img-responsive"></img></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                    <div class="informov">
-                        <div class="hovereffect">
-                            <a href="#" ><img src="../image/poster5" class="img-responsive"></a>
-                        </div>
-                        <h5>TenPhim</h5>
-                        <a class="btn btn-success" href="#"><i class="fa fa-ticket-alt" aria-hidden="true"></i> MUA VÉ</a>
-                    </div>
-
-                </div>
-            </div>
+                
     </section>
             <footer style="clear: both; padding-top: 35px;" id="nav-foot" class="bg-dark">
             <div class="container">
