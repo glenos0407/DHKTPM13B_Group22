@@ -198,6 +198,7 @@
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
+    <Content Include="ThemPhim.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -237,6 +238,12 @@
     </Compile>
     <Compile Include="QuanLyRap.aspx.designer.cs">
       <DependentUpon>QuanLyRap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ThemPhim.aspx.cs">
+      <DependentUpon>ThemPhim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ThemPhim.aspx.designer.cs">
+      <DependentUpon>ThemPhim.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
