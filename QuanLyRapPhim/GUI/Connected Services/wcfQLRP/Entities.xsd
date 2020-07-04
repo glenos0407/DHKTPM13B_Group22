@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/Entities.Enum" />
+  <xs:complexType name="eNhanVien">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Entities.Enum" minOccurs="0" name="chucVu" type="q1:ChucVu" />
+      <xs:element minOccurs="0" name="cmnd" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hoTen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idNhanVien" type="xs:int" />
+      <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="soDienThoai" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eNhanVien" nillable="true" type="tns:eNhanVien" />
+  <xs:complexType name="ePhim">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="idPhim" type="xs:int" />
+      <xs:element minOccurs="0" name="luaTuoi" type="xs:int" />
+      <xs:element minOccurs="0" name="ngayCongChieu" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="ngonNgu" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="noiDungPhim" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="poster" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tenDaoDien" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tenPhim" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="theLoai" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="thoiLuong" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ePhim" nillable="true" type="tns:ePhim" />
+  <xs:complexType name="eRapPhim">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="diaChi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hotLine" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idRapPhim" type="xs:int" />
+      <xs:element minOccurs="0" name="soLuongChoNgoi" type="xs:int" />
+      <xs:element minOccurs="0" name="tenRap" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eRapPhim" nillable="true" type="tns:eRapPhim" />
+  <xs:complexType name="eVe">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="gheNgoi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="giaVe" type="xs:double" />
+      <xs:element minOccurs="0" name="idNhanVien" type="xs:int" />
+      <xs:element minOccurs="0" name="idRapPhim" type="xs:int" />
+      <xs:element minOccurs="0" name="idSuatChieu" type="xs:int" />
+      <xs:element minOccurs="0" name="idVe" type="xs:int" />
+      <xs:element minOccurs="0" name="ngayXuatVe" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="eVe" nillable="true" type="tns:eVe" />
+</xs:schema>
