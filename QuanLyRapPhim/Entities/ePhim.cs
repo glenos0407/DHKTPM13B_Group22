@@ -13,6 +13,7 @@ namespace Entities
         public int idPhim { get; set; }
         public int luaTuoi { get; set; }
         public DateTime ngayCongChieu { get; set; }
+        public DateTime ngayDongPhim { get; set; }
         public string ngonNgu { get; set; }
         public string noiDungPhim { get; set; }
         public string poster { get; set; }
