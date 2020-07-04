@@ -281,6 +281,16 @@
   <ItemGroup>
     <WCFMetadataStorage Include="Connected Services\wcfQLRP\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{8A5407A5-0976-4E17-8487-E8700ED18D37}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLRPWCFServices\QLRPWCFServices.csproj">
+      <Project>{D242B54E-DE78-477C-8CCC-8F6D46A4ECE6}</Project>
+      <Name>QLRPWCFServices</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

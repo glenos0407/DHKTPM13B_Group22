@@ -34,3 +34,21 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csproj.CopyComplete
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\QLRPWCFServices.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\DAL.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\Entities.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csprojAssemblyReference.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.csproj.CopyComplete
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\QLRPWCFServices\obj\Debug\QLRPWCFServices.pdb

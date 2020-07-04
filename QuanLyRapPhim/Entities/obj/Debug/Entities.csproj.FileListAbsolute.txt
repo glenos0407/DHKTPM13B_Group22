@@ -45,3 +45,15 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entiti
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.pdb
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\Entities.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
