@@ -76,3 +76,25 @@ C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
 C:\Users\thcon\Desktop\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
 C:\Users\PhatDepTraiCute\Downloads\Kiến Trúc Phần Mềm\20200704\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.UpdateNgayDongPhim.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\DAL.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\Entities.dll.config
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Init.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.init_v2.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.Fix_Fix_Fix.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.Migrations.UpdateNgayDongPhim.resources
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.dll
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.pdb
+D:\Hoc Tap\DHKTPM13B_Group22\QuanLyRapPhim\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
